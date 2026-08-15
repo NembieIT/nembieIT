@@ -93,7 +93,7 @@
   </a>&nbsp;&nbsp;
 
   <a href="https://zalo.me/0382514371">
-    <img src="./zalo.png" height="30">
+    <img src="./zalo.jpg" height="30">
   </a>&nbsp;&nbsp;
 
   <a href="mailto:mtdung240205@gmail.com">
