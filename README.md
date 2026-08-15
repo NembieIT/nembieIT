@@ -81,11 +81,24 @@
    </p>
 <br />
 
-<h2 align="center">🤝 Support</h2>
+<h2 align="center">📫 Contact</h2>
 
-<p align="center">🎀 Contributions (<a href="https://guides.github.com/introduction/flow" title="GitHub flow">GitHub Flow</a>), 🔥 issues, and 🥮 feature requests are most welcome!</p>
+<p align="center">
+  <a href="https://www.facebook.com/tdungm2402">
+    <img src="./facebook.png" height="30">
+  </a>&nbsp;&nbsp;
 
-<p align="center">💙 If you like my projects, Give them ⭐ and Share it with friends!</p>
+  <a href="https://www.linkedin.com/in/tien-dung-mai-aa506235a/">
+    <img src="./linkedin.png" height="30">
+  </a>&nbsp;&nbsp;
+
+  <a href="https://zalo.me/0382514371">
+    <img src="./zalo.png" height="30">
+  </a>&nbsp;&nbsp;
+
+  <a href="mailto:mtdung240205@gmail.com">
+    <img src="./email.png" height="30">
+  </a>
 </p>
 <p align="center">Made with ❤️ in Vietnam</p>
 <p align='center'>TienDung-NembieIT</p>
