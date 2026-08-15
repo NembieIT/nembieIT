@@ -6,8 +6,13 @@
 </div>
 
 <p align='center'>
-   <a href="https://www.linkedin.com/in/tien-dung-mai-aa506235a/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://www.facebook.com/tdungm2402"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/facebook.png?raw=true"></a>&nbsp;&nbsp;
+   <a href="https://www.linkedin.com/in/tien-dung-mai-aa506235a/">
+  <img height="30" src="./linkedin.png">
+</a>&nbsp;&nbsp;
+
+<a href="https://www.facebook.com/tdungm2402">
+  <img height="30" src="./facebook.png">
+</a>&nbsp;&nbsp;
 
 <div align="center">
 <h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 👦🏻 Mai Tien Dung | 💻 Full Stack Developer | 🛸 CanTho , Vietnam <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h3>
